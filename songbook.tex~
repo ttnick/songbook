@@ -36,11 +36,6 @@
 \begin{songs}{titleidx,authidx,scripidx}
 \input{Traditional/somewhere_over_the_rainbow.sbd}
 \end{songs}
-
-\songsection{Rock}
-\begin{songs}{titleidx,authidx,scripidx}
-\input{Rock/falling_in_love_with_you.sbd}
-\end{songs}
 %\showindex{Index of Authors and Composers}{authidx}
 %\showindex{Index of Scripture}{scripidx}
 
