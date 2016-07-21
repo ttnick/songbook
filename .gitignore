@@ -1,3 +1,8 @@
+## Songbook Files
+doc.pdf
+*.sxd
+*.sxc
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
