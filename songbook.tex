@@ -13,7 +13,10 @@
 \setlength{\headsep}{0in}
 \setlength{\textheight}{9.1in}
 \settowidth{\versenumwidth}{1.\ }
+
 \renewcommand{\printchord}[1]{\rmfamily\bf#1}
+\renewcommand{\chorusjustify}{\justifyleft}
+
 \pagestyle{empty}
 
 \newindex{titleidx}{cbtitle}
@@ -27,6 +30,11 @@
 \songsection{Irish Folk Songs}
 \begin{songs}{titleidx,authidx,scripidx}
 \input{IrishFolk/fields_of_athenry.sbd}
+\end{songs}
+
+\songsection{Traditional}
+\begin{songs}{titleidx,authidx,scripidx}
+\input{Traditional/somewhere_over_the_rainbow.sbd}
 \end{songs}
 %\showindex{Index of Authors and Composers}{authidx}
 %\showindex{Index of Scripture}{scripidx}
