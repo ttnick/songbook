@@ -2,6 +2,7 @@
 doc.pdf
 *.sxd
 *.sxc
+*.sbd~
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
