@@ -1,4 +1,3 @@
-
 \documentclass[letterpaper]{article}
 \usepackage[bookmarks]{hyperref}
 \usepackage[chorded]{songs}
@@ -6,18 +5,19 @@
 
 \setlength{\oddsidemargin}{0in}
 \setlength{\evensidemargin}{0in}
-\setlength{\textwidth}{6.5in}
-\setlength{\topmargin}{1in}
+\setlength{\textwidth}{7in}
+\setlength{\topmargin}{0in}
 \setlength{\topskip}{0in}
 \setlength{\headheight}{0in}
 \setlength{\headsep}{0in}
-\setlength{\textheight}{9.1in}
+\setlength{\textheight}{8.8in}
 \settowidth{\versenumwidth}{1.\ }
 
 \renewcommand{\printchord}[1]{\rmfamily\bf#1}
 \renewcommand{\chorusjustify}{\justifyleft}
 
 \pagestyle{empty}
+\songcolumns{2}
 
 \newindex{titleidx}{cbtitle}
 \newauthorindex{authidx}{cbauth}
@@ -26,8 +26,12 @@
 \begin{document}
 
 %\showindex{Index of Songs}{titleidx}
+\songsection{Folk}
+\begin{songs}{titleidx,authidx,scripidx}
+\input{Folk/im_yours.sbd}
+\end{songs}
 
-\songsection{Irish Folk Songs}
+\songsection{Irish Folk}
 \begin{songs}{titleidx,authidx,scripidx}
 \input{IrishFolk/fields_of_athenry.sbd}
 \end{songs}
