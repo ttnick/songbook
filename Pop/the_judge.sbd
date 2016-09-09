@@ -89,7 +89,9 @@ So \[F]please,
 \beginverse*{Interlude:}
 {\nolyrics \[Am] \[F] \[C] \[Dm]} 
 {\nolyrics \[Am] \[F] \[C]}
-\ \\
+\endverse
+
+\beginchorus
 You're the \[F]judge, Oh \[C]no
 Set me \[G]free, oh \[Am]no
 You're the \[F]judge, Oh \[C]no
@@ -97,25 +99,26 @@ Set me \[G]free, oh \[Am]no
 I \[F]know my soul's \[G]freezing
 Hell's \[C]hot for good \[Am]reason
 So \[F]please,
-
 {\nolyrics \[F] \[C] \[G] \[Am]}
-\endverse
+\endchorus
 
 \beginverse*{Another Interlude:}
 \[F]Na Na Na \[C]Na Oh Oh
 \[G]Na Na Na \[Am]Na Oh Oh
 \[F]Na Na Na \[C]Na Oh Oh
 \[G]Na Na Na \[Am]Na Oh Oh
-\ \\
-You're the \[F]judge, Oh \[C]no
-Set me \[G]fre\[Am]e
-You're the \[F]judge, Oh \[C]no
-Set me \[G]fre\[Am]e
-You're the \[F]judge, Oh \[C]no
-Set me \[G]fre\[Am]e
-You're the \[F]judge, Oh \[C]no
-Set me \[G]fre\[Am]e
 \endverse
+
+\beginchorus
+You're the \[F]judge, Oh \[C]no
+Set me \[G]fre\[Am]e
+You're the \[F]judge, Oh \[C]no
+Set me \[G]fre\[Am]e
+You're the \[F]judge, Oh \[C]no
+Set me \[G]fre\[Am]e
+You're the \[F]judge, Oh \[C]no
+Set me \[G]fre\[Am]e
+\endchorus
 
 \beginverse*{Outro:}
 {\nolyrics \[F] \[G] \[C] \[Am]}
