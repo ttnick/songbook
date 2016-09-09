@@ -1,119 +1,67 @@
-Intro
+\beginsong{Knee Deep}[
+	by={Zac Brown Band feat. Jimmy Buffett},
+	sr={},
+	cr={},
+	index={}]
+\beginverse*{Intro:}
+{\nolyrics \[CaddG] \[F] \[C] \[G] \[C]}
+{\nolyrics \[CaddG] \[F] \[C] \[G/B] \[Am] \[G] \[C]}
+\endverse
 
-CaddG -F - C -G -C 
-CaddG -F - C -G/B -Am - G - C
-
-
-Verse 1:
-C
-Gonna put the the world away for a minute
-F
-Pretend I don't live in it
-C              G               C
-Sunshine gonna wash my blues away
-C
-Had sweet love but I lost it
-F
-She got too close so I fought her
-    C                G/B              Am       G        C
-Now I'm lost in the world trying to find me a better way
-
+\beginverse
+\[C]Gonna put the the world away for a minute
+\[F]Pretend I don't live in it
+\[C]Sunshine gonna \[G]wash my blues aw\[C]ay
+\[C]Had sweet love but I lost it
+\[F]She got too close so I fought her
+Now \[C]I'm lost in the w\[G/B]orld trying to fi\[Am]nd me a b\[G]etter way \[C]
 Wishing I was...
+\endverse
 
-Chorus:
-              C
-Knee deep in the water somewhere
-        F
-Got the blue sky breeze and it don't seem fair
-     C                         G                  CaddG
-Only worry in the world is the tide gonna reach my chair
-C
-Sunrise there's a fire in the sky
-      F
-Never been so happy
-      F
-Never felt so high
-        C                G/B              Am       G        C
-And I think I might have found me my own kind of paradise
+\beginchorus
+Knee deep in \[C]the water somewhere
+Got the \[F]blue sky breeze and it don't seem fair
+Only \[C]worry in the world is the \[G]tide gonna reach my \[CaddG]chair
+\[C]Sunrise there's a fire in the sky
+Never \[F]been so happy
+Never \[F]felt so high
+And I th\[C]ink I might have \[G/B]found me my own k\[Am]ind of par\[G]adise \[C]
+{\nolyrics \[CaddG] \[F] \[C] \[G] \[C]}
+\endchorus
 
-CaddG -F - C -G -C 
-
-Verse 2:
-C
-Wrote a note said be back in a minute
-F
-Bought a boat and I sailed off in it
-C                         G         C     
-Don't think anybody gonna miss me anyway
-C
-Mind on a permanent vacation
-    F
-The ocean is my only medication
-C                G/B              Am       G        C
-Wishing my condition ain't ever gonna go away
-[ Tab from: http://www.guitaretab.com/z/zac-brown-band/282800.html ]
+\beginverse
+^Wrote a note said be back in a minute
+^Bought a boat and I sailed off in it
+^Don't think anybody gonna ^miss me any^way
+^Mind on a permanent vacation
+The ^ocean is my only medication
+^Wishing my condit^ion ain't ever go^nna go aw^ay ^
 'Cause now I'm...
+\endverse
 
-Chorus:
-              C
-Knee deep in the water somewhere
-        F
-Got the blue sky breeze and it don't seem fair
-     C                         G                  CaddG
-Only worry in the world is the tide gonna reach my chair
-C
-Sunrise there's a fire in the sky
-      F
-Never been so happy
-      F
-Never felt so high
-        C                G/B              Am       G        C
-And I think I might have found me my own kind of paradise
+\beginverse*{Bridge:}
+This \[Am]champagne shore washing \[C]over me
+It's a \[G]sweet sweet life livin' by the \[C]salty sea
+\[F]One day you could be as \[C]lost as me
+Change your geo\[Am]graphy
+Maybe \[G]you might be
+\endverse
 
-Bridge:
+\textnote{Repeat chorus but first three line w/o chords.}
+\beginverse*{Outro:}
+\[C]Come on in the water's nice
+\[G]Find yourself a little slice
+\[C]Grab a backp\[G/B]ack of life
+You'\[Am]ll never kn\[G]ow until you \[F]try
+When you \[D7]lose yourself
+\[G/B]You fi\[Am]nd the ke\[G]y to parad\[C]ise
 
-     Am                       C
-This champagne shore washing over me
-       G                              C          
-It's a sweet sweet life livin' by the salty sea
-F                       C
-One day you could be as lost as me
-              Am
-Change your geography
-      G             
-Maybe you might be
+{\nolyrics \[CaddG] \[F] \[C] \[G] \[C]} 
+{\nolyrics \[CaddG] \[F] \[C] \[G/B] \[Am] \[G] \[C]}
+\endverse
+\endsong
 
-Chorus:
-(No chords)
-Knee deep in the water somewhere
-
-Got the blue sky breeze blowin' wind through my hair
-
-Only worry in the world is the tide gonna reach my chair
-C
-Sunrise there's a fire in the sky
-      F
-Never been so happy
-      F
-Never felt so high
-        C                G/B              Am       G        C
-And I think I might have found me my own kind of paradise
-
-C
-Come on in the water's nice
-G
-Find yourself a little slice
-C           G/B
-Grab a backpack of life
-    Am            G           F
-You'll never know until you try
-         D7
-When you lose yourself
-G/B   Am       G        C
-You find the key to paradise
-
-Outro
-CaddG -F - C -G -C 
-CaddG -F - C -G/B -Am - G - C
-closeTrouble Playing ...
+%\beginscripture{}
+%
+%\endscripture
 
