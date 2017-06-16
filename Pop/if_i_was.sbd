@@ -1,0 +1,93 @@
+\beginsong{If I was}[
+	by={Young Rebel Set},
+	sr={},
+	cr={},
+	index={}]
+
+\beginverse*{Intro:}
+{\nolyrics \[C] \[Am] \[G] \[C]}
+\endverse
+
+\beginverse\memorize
+\[C]If I was a sai\[Am]lor I would \[G]sail you out to \[C]sea
+\[C]Take you across the \[F]ocean, ask \[C]you to marr\[G]y me
+\[Am]Oh if I was sai\[F]lor I would \[G]sail you home \[C]to me
+\endverse
+
+\beginverse
+^And if I was a sol^dier I would ^march to war for ^you
+^I'd face every ^bullet and cann^onball that ^flew
+^Oh if I was a sol^dier I would ^wage a war for ^you
+\endverse
+
+\beginverse
+^And if I was ^a jailer I ^would lock you aw^ay
+^Then I'd have the ^key to see you ^each and every ^day
+^Oh if I was a ^jailer I would ^still have you ^today
+\endverse
+
+\beginverse
+^And if I was a ^rich man I'd buy you ^flowers every ^day
+^But I am a ^poor man so ^I'll pick them on the ^way
+^Oh if I was a ^rich man I would ^pay to make you to ^stay.
+\endverse
+
+\beginchorus\newchords{ifiwas_ch}\memorize[ifiwas_ch]
+\[Am]I've wasted so much \[Em]time
+\[F]Writing songs and \[G]playing on my gui\[C]tar
+\[Am]I've wasted so much \[Em]love
+\[F]Now I wish I'd never \[G]learnt to play \[C] a note.
+\endchorus
+
+\beginverse
+^And if I had an ^aeroplane then ^I'd fly you aw^ay
+^Maybe we go to ^Rome or ^Paris for the ^day
+^Oh if I had an ^aeroplane then ^I'd whisk you ^away
+\endverse
+
+\beginverse
+^And if I was a ^betting man I'd ^bet you love me ^too
+^I'd bet every^thing I had for the ^chance to be with ^you
+^Oh if I was a ^betting man my ^odds are 9-^2.
+\endverse
+
+\beginchorus\replay[ifiwas_ch]
+^I've wasted so much ^time
+^Writing songs and ^playing on my gui^tar
+^I've wasted so much ^love
+^Now I wish I'd never ^learnt to play ^ a note.
+\[Am]Yeah I wish I'd never \[G] learnt to play \[Am]a note
+\[F]Oh I wish I'd never \[G]learnt to play a \[C] note.
+\endchorus
+
+\textnote{(Solo)}
+
+\beginchorus\replay[ifiwas_ch]
+^I've wasted so much ^time
+^Writing songs and ^playing on my gui^tar
+^I've wasted so much ^love
+^Oh I wish I'd never ^learnt to play ^ a note.
+\endchorus
+
+\beginverse
+^And if I was a ^writer I would ^write a book on ^you
+^I'd tell them all the ^stories of the ^things we used to ^do
+^Oh if I was a ^writer I would ^write a book on ^you
+\endverse
+
+\beginverse
+^And if I was a ^painter I'd paint ^portraits of ^you
+^Hang them in the ^galleries like ^all good painter ^do
+^Oh if I was a ^painter I'd paint ^potraits of ^you.
+\endverse
+
+\beginchorus\replay[ifiwas_ch]
+^I've wasted so much ^time
+^Writing songs and ^playing on my gui^tar
+^I've wasted so much ^love
+^Now I wish I'd never ^learnt to play ^ a note.
+\[Am]Yeah I wish I'd never \[G] learnt to play \[Am]a note
+\[F]Oh I wish I'd never \[G]learnt to play a \[C] note.
+\endchorus
+
+\endsong

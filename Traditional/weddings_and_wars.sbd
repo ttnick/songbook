@@ -34,7 +34,7 @@
 ^Wherever they were, they ^all used to sing:
 \endverse
 
-\beginchorus\newchords{chorus}\memorize[chorus]
+\beginchorus\newchords{waw_ch}\memorize[waw_ch]
 \[Am]Birth, \[Em]death, \[F]weddings and \[C]wars,
 \[Am]That's \[Em]all we \[F]are good \[C]for.
 \[Am]If all of \[Em]the past was \[F]played as a \[C]song,
@@ -48,7 +48,7 @@
 ^A barrel of booze in ^return for your daughters and
 \endverse
 
-\beginchorus\replay[chorus]
+\beginchorus\replay[waw_ch]
 ^Birth, ^death, ^weddings and ^wars,
 ^Naissance, ^d\'{e}c\`{e}s, ^mariage et ^guerre,
 ^Above the same ^earth, ^beneath the ^same stars,
@@ -69,7 +69,7 @@
 ^Finally someone in^vents the tv.
 \endverse
 
-\beginchorus\replay[chorus]
+\beginchorus\replay[waw_ch]
 And it's ^birth, ^death, ^weddings and ^wars,
 ^Naissance, ^d\'{e}c\`{e}s, ^mariage et ^guerre,
 ^Above the same ^earth, ^beneath the ^same stars,
@@ -90,7 +90,7 @@ And it's ^birth, ^death, ^weddings and ^wars,
 \[Am]'Why are we here? \[C]What ^happens when we die?'
 \endverse
 
-\beginchorus\replay[chorus]
+\beginchorus\replay[waw_ch]
 Singing ^birth, ^death, ^weddings and ^wars,
 ^That's ^all ^we're good ^for.
 If ^all of the ^past was ^played as a ^song,
