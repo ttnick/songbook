@@ -1,0 +1,33 @@
+\documentclass[letterpaper]{article}
+\usepackage[bookmarks]{hyperref}
+\usepackage[chorded]{songs}
+% \includeonlysongs{2}
+
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{7in}
+\setlength{\topmargin}{0in}
+\setlength{\topskip}{0in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{8.8in}
+\settowidth{\versenumwidth}{1.\ }
+
+\renewcommand{\printchord}[1]{\rmfamily\bf#1}
+\renewcommand{\chorusjustify}{\justifyleft}
+
+\pagestyle{empty}
+\songcolumns{2}
+
+\newindex{titleidx}{cbtitle}
+\newauthorindex{authidx}{cbauth}
+\newscripindex{scripidx}{cbscrip}
+
+\begin{document}
+
+%\showindex{Index of Songs}{titleidx}
+\begin{songs}{titleidx,authidx,scripidx}
+\input{Traditional/laurensberg.sbd}
+\end{songs}
+
+\end{document}
